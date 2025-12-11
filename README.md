@@ -6,7 +6,9 @@ Instructor: Professor Jeff Anderson
 
 
 📘 Overview
-This repository contains explanations and worked examples for major concepts in linear algebra, and what I've learned throughout the quarter from this class, with the help of Marus, Abel, Leman, and Pawan. These notes are formatted neatedly with the help of some AI models such as GPT and Gemini
+This repository contains explanations and worked examples for major concepts in linear algebra, and what I've learned throughout the quarter from this class, with the help of Marus, Abel, Leman, and Pawan. These notes are formatted neatedly with the help of some AI models such as GPT and Gemini.
+
+Included in this repository is work from this class such as my Final Assessment, Midterm, and Conquering College Lab 1
 
 Topics covered are:
 - Inner products & vector norms
@@ -93,11 +95,6 @@ Topics covered are:
   - Algorithm for computing RREF
   - Eliminations & elementary matrices
 
-- Lesson 18 — Solution Sets for Linear Systems
-  - Homogeneous solutions and null space basis
-  - Free variables & pivot variables
-  - General solution formula: x = x_p + z
-  - How to interpret solution spaces geometrically
 
 
 📄 PDF Version
