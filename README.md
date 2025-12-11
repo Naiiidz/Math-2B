@@ -4,12 +4,11 @@ Author: Nathaniel Santiago
 Course: Math 2B (Linear Algebra & Applications) — Fall 2025  
 Instructor: Professor Jeff Anderson
 
-A structured and comprehensive collection of notes for Math 2B taken during the Fall 2025 quarter. These notes summarize theory, intuition, worked examples, and conceptual connections across all studied topics.
 
 📘 Overview
-This repository contains step-by-step explanations and worked examples for major concepts in linear algebra, with emphasis on intuition, engineering connections, and modeling applications.
+This repository contains explanations and worked examples for major concepts in linear algebra, and what I've learned throughout the quarter from this class, with the help of Marus, Abel, Leman, and Pawan. These notes are formatted neatedly with the help of some AI models such as GPT and Gemini
 
-Major topics include:
+Topics covered are:
 - Inner products & vector norms
 - Linear combinations, span, dependence/independence
 - Matrices and matrix modeling (incidence matrices, images, meshes)
@@ -100,21 +99,14 @@ Major topics include:
   - General solution formula: x = x_p + z
   - How to interpret solution spaces geometrically
 
-🧠 Study Philosophy
-These notes emphasize:
-- Intuition before formalism
-- Examples before abstraction
-- Connections to engineering and real-world systems
-- Clear explanations of why theorems matter
 
 📄 PDF Version
 The full PDF of these notes is included in this repository:
 [Math_2B.pdf](Math_2B.pdf)
 
-How to use these notes
-- Read the intuition and worked examples first, then review formal definitions.
+How I would use these notes
+- Read the concepts, then work on examples first, then review formal definitions.
 - Attempt the self-check questions and reproduce example calculations by hand.
 - Use the PDF for offline study and this repo for quick lookups.
 
-If you'd like this README expanded with a linked table of contents, usage examples, or licensing information, open an issue or submit a PR.
 
